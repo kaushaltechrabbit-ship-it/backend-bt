@@ -11,6 +11,9 @@ const SeoAuditSchema = new mongoose.Schema(
         },
 
 
+        
+
+
 
         email: {
             type: String,

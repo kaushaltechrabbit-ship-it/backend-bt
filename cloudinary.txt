@@ -1,0 +1,3 @@
+Cloud Name = daydlctop
+API key	 = 436561573424829
+API secret = -9HwgeeRt_1Z3MzvaSAxr_0jVxU
